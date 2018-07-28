@@ -1,0 +1,16 @@
+{
+  "name": "nodeblog",
+  "version": "1.0.0",
+  "description": "Simple Blog using NodeJs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akshay Patil",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.5"
+  }
+}
